@@ -161,7 +161,7 @@ export default function VideoPage() {
       {/* Waiting Modal */}
       {waitingForUser && (
         <div className="modal fixed top-0 left-0 w-full h-full flex items-center justify-center bg-black bg-opacity-50">
-          <span className="text-white">Waiting For Someone...</span>
+          <span className="text-white">Waiting For therapist...</span>
         </div>
       )}
 
